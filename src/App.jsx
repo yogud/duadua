@@ -84,7 +84,7 @@ function App() {
                 <div className="w-8 h-8 border border-white/20 rounded-full mb-4 flex items-center justify-center text-sm group-hover:border-white">
                   A
                 </div>
-                <h3 className="text-xl text-left font-light">Spanish</h3>
+                <h3 className="text-xl text-left font-light">Spanished</h3>
               </button>
               <button className="p-8 bg-zinc-900 rounded-2xl hover:bg-zinc-800 transition-colors group w-80">
                 <div className="w-8 h-8 border border-white/20 rounded-full mb-4 flex items-center justify-center text-sm group-hover:border-white">
